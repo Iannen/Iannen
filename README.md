@@ -11,9 +11,10 @@ Whereever possible there will be either a self contained runnable artifact (an e
 
 These employ nested while loops to present the user with menu options.
 
-- **Bilutleie-Edel**
-  A simple in-memory application that lets the user interact with a fictional company Edel  
-  [Project README](https://github.com/Iannen/Bilutleie-Edel/blob/main/README.md) [Runnable fat jar](https://github.com/Iannen/Bilutleie-Edel/releases/download/latest/edel.jar)
+- **Bilutleie-Edel**  
+- A simple in-memory application that lets the user interact with a fictional company Edel  
+- [Project README](https://github.com/Iannen/Bilutleie-Edel/blob/main/README.md)
+- [Runnable fat jar](https://github.com/Iannen/Bilutleie-Edel/releases/download/latest/edel.jar)  
 #### DbAdmin 
 #### Bilutleie
 
