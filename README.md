@@ -26,8 +26,9 @@ A simple in-memory application that lets the user interact with a fictional car 
 [Runnable artifact](https://github.com/Iannen/Bilutleie-Edel/releases/tag/latest)  
 
 #### Bilutleie ~ spring of 2024
-A simple in-memory application that lets the user interact with a fictional car rental company Edel.
-This was a preproject to above 'Bilutleie-Edel' project, and uses a in-memory H2 database and Spring JPA
+This was a preproject to above 'Bilutleie-Edel' project, featuring a Spring JPA accessed H2 database and a more modular approach to building menus.
+[Project README](https://github.com/Iannen/Bilutleie/blob/main/README.md) / 
+[Runnable artifact](https://github.com/Iannen/Bilutleie/releases/tag/latest)  
 
 ### Webapps
 #### Tasklist
