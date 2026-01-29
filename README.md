@@ -56,6 +56,12 @@ It injects a little webapp into the existing Canvas LMS webapp, with the goal of
 [Live Demo]()  
 
 #### stx
+
+Stx is a containerized orchestration service which aims to assist with provisioning of services that run on a Docker Swarm network.
+
+[Project README](https://github.com/Iannen/stx/blob/main/README.md) /  
+[Live Demo]()  
+
 #### Solsystem
 
 #### Homecontroller
