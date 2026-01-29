@@ -92,50 +92,50 @@ These projects employ nested while loops to present the user with menus.
 - [Project README](https://github.com/Iannen/DbAdmin/blob/main/README.md) / 
 - [Runnable artifact](https://github.com/Iannen/DbAdmin/releases/tag/latest)  
 
-#### Bilutleie-Edel ~ spring of 2024
-A simple in-memory application that lets the user interact with a fictional car rental company Edel.  
-[Project README](https://github.com/Iannen/Bilutleie-Edel/blob/main/README.md) /  
-[Runnable artifact](https://github.com/Iannen/Bilutleie-Edel/releases/tag/latest)  
+**Bilutleie-Edel ~ spring of 2024**
+- A simple in-memory application that lets the user interact with a fictional car rental company Edel.  
+- [Project README](https://github.com/Iannen/Bilutleie-Edel/blob/main/README.md) /  
+- [Runnable artifact](https://github.com/Iannen/Bilutleie-Edel/releases/tag/latest)  
 
-#### Bilutleie ~ spring of 2024
-This was a preproject to above 'Bilutleie-Edel' project, featuring a Spring JPA accessed H2 database and a more modular approach to building menus.  
-[Project README](https://github.com/Iannen/Bilutleie/blob/main/README.md) /   
-[Runnable artifact](https://github.com/Iannen/Bilutleie/releases/tag/latest)  
+**Bilutleie ~ spring of 2024**
+- This was a preproject to above 'Bilutleie-Edel' project.
+  It features a Spring JPA accessed H2 database and a more modular approach to building menus.  
+- [Project README](https://github.com/Iannen/Bilutleie/blob/main/README.md) /   
+- [Runnable artifact](https://github.com/Iannen/Bilutleie/releases/tag/latest)  
 
 ### Webapps
 
-#### Tasklist ~ fall of 2025
+**Tasklist ~ fall of 2025**
 
-Tasklist is a vanilla JS web components style webapp based on a preprovided Spring Boot project, where unregistered users can create and manage tasks.  
+- Tasklist is a vanilla JS web components style webapp based on a preprovided Spring Boot project, where unregistered users can create and manage tasks.  
 
-[Project README](https://github.com/Iannen/Tasklist/blob/main/README.md) /  
-[Live Demo](http://tasklist.kaffannen.click:16501/TaskList/)  
+- [Project README](https://github.com/Iannen/Tasklist/blob/main/README.md) /  
+- [Live Demo](http://tasklist.kaffannen.click:16501/TaskList/)  
 
-#### EasyChat
-EasyChat is a Spring Boot webapplication with a PostgreSQL database and a custom javascript frontend.  
-
-[Project README](https://github.com/Iannen/EasyChat/blob/master/README.md) /  
-[Live Demo (best accessed in incognito mode)](http://easychat.kaffannen.click:16500/)  
+**EasyChat ~ spring of 2024**
+- EasyChat is a Spring Boot webapplication with a PostgreSQL database and a custom javascript frontend.  
+- [Project README](https://github.com/Iannen/EasyChat/blob/master/README.md) /  
+- [Live Demo (best accessed in incognito mode)](http://easychat.kaffannen.click:16500/)  
 
 ### Other projects
-#### TeamUp
 
-Teamup is an unofficial extension for [Canvas LMS](https://sikt-no.translate.goog/tjenester/lms?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=no&_x_tr_pto=wapp&_x_tr_hist=true), written 
-for a course about innovation.
-It injects a little webapp into the existing Canvas LMS webapp, with the goal of providing enhanced functionality relating to the forming of student groups for obligatory assignments.
+**TeamUp ~ fall of 2024**
 
-[Project README](https://github.com/Iannen/TeamUp/blob/main/README.md) /  
-[Live Demo]()  
+- Teamup is an unofficial extension for [Canvas LMS](https://sikt-no.translate.goog/tjenester/lms?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=no&_x_tr_pto=wapp&_x_tr_hist=true),
+  written for a course about innovation.
+  It injects a little webapp into the existing Canvas LMS webapp, with the goal of providing enhanced functionality relating to the forming of student groups for obligatory assignments.
 
-#### stx
+- [Project README](https://github.com/Iannen/TeamUp/blob/main/README.md) /  
+- [Live Demo]()  
 
-Stx is a containerized orchestration service which aims to assist with provisioning of services that run on a Docker Swarm network.
+**Stx**
 
-[Project README](https://github.com/Iannen/stx/blob/main/README.md) /  
-[Live Demo]()  
+- Stx is a containerized orchestration service which aims to assist with provisioning of services that run on a Docker Swarm network.
+- [Project README](https://github.com/Iannen/stx/blob/main/README.md) /  
+- [Live Demo]()  
 
-#### Solsystem
+**Solsystem**
 
-Solsystem is a c# application which renders a demo of the solar system.  
-[Project README](https://github.com/Iannen/Solsystem/blob/main/README.md) /  
-[Runnable artifact](https://github.com/Iannen/Solsystem/releases/tag/latest)  
+- Solsystem is a c# application which renders a demo of the solar system.  
+- [Project README](https://github.com/Iannen/Solsystem/blob/main/README.md) /  
+- [Runnable artifact](https://github.com/Iannen/Solsystem/releases/tag/latest)  
