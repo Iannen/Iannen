@@ -31,8 +31,19 @@ This was a preproject to above 'Bilutleie-Edel' project, featuring a Spring JPA 
 [Runnable artifact](https://github.com/Iannen/Bilutleie/releases/tag/latest)  
 
 ### Webapps
-#### Tasklist
+
+#### Tasklist ~ fall of 2025
+
+Tasklist is a vanilla JS web components style webapp based on a preprovided Spring Boot project, where unregistered users can create and manage tasks.
+
+[Project README](https://github.com/Iannen/Tasklist/blob/main/README.md) / 
+[Live Demo](http://tasklist.kaffannen.click:16501/TaskList/)  
+
 #### EasyChat
+EasyChat is a Spring Boot webapplication with a PostgreSQL database and a custom javascript frontend.
+
+[Project README](https://github.com/Iannen/EasyChat/blob/master/README.md) / 
+[Live Demo (best accessed in incognito mode)](http://easychat.kaffannen.click:16500/)  
 
 ### Other projects
 #### TeamUp
