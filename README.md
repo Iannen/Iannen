@@ -64,8 +64,10 @@ Stx is a containerized orchestration service which aims to assist with provision
 
 #### Solsystem
 
-#### Homecontroller
-#### Arch
+Solsystem is a c# application which renders a demo of the solar system.
+[Project README](https://github.com/Iannen/Solsystem/blob/main/README.md) /  
+[Runnable artifact](https://github.com/Iannen/Solsystem/releases/tag/latest)  
+
 
 
 
