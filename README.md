@@ -87,11 +87,10 @@ These projects employ nested while loops to present the user with menus.
 
 **DbAdmin ~ spring of 2023**
 - Console driven application to simulate the management of employees, departements and projects in a fictional company.  
-The menues and their configuration is handled by a large 'god class' *Tekstgrensesnitt* with a sidekick *Statics* class to take textual user input.
-It connects to an external PostgreSQL database using JPA + DAO.  
-
-[Project README](https://github.com/Iannen/DbAdmin/blob/main/README.md) / 
-[Runnable artifact](https://github.com/Iannen/DbAdmin/releases/tag/latest)  
+  The menues and their configuration is handled by a large 'god class' *Tekstgrensesnitt* with a sidekick *Statics* class to take textual user input.
+  It connects to an external PostgreSQL database using JPA + DAO.  
+- [Project README](https://github.com/Iannen/DbAdmin/blob/main/README.md) / 
+- [Runnable artifact](https://github.com/Iannen/DbAdmin/releases/tag/latest)  
 
 #### Bilutleie-Edel ~ spring of 2024
 A simple in-memory application that lets the user interact with a fictional car rental company Edel.  
