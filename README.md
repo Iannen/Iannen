@@ -70,26 +70,23 @@ Solsystem is a c# application which renders a demo of the solar system.
 
 
 ***********************************************
-
-
-
-
-# Iannen
-
-Hello, I'm me!
+  
+  
+  
+  
+  
 
 ## Projects
 
-These are my projects, for your viewing pleasure.  
-Whereever possible there will be either a self contained runnable artifact (an exe or a jar file), or a link to a live demo.
+Whereever possible there will be either a self contained runnable artifact (an exe or a jar file), a link to a live demo or some kind of presentation.
 
 ### Console projects
 
 These projects employ nested while loops to present the user with menus. 
 
 
-#### DbAdmin ~ spring of 2023
-Console driven application to simulate the management of employees, departements and projects in a fictional company.  
+**DbAdmin ~ spring of 2023**
+- Console driven application to simulate the management of employees, departements and projects in a fictional company.  
 The menues and their configuration is handled by a large 'god class' *Tekstgrensesnitt* with a sidekick *Statics* class to take textual user input.
 It connects to an external PostgreSQL database using JPA + DAO.  
 
