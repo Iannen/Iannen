@@ -47,6 +47,14 @@ EasyChat is a Spring Boot webapplication with a PostgreSQL database and a custom
 
 ### Other projects
 #### TeamUp
+
+Teamup is an unofficial extension for [Canvas LMS](https://sikt-no.translate.goog/tjenester/lms?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=no&_x_tr_pto=wapp&_x_tr_hist=true), written 
+for a course about innovation.
+It injects a little webapp into the existing Canvas LMS webapp, with the goal of providing enhanced functionality relating to the forming of student groups for obligatory assignments.
+
+[Project README](https://github.com/Iannen/TeamUp/blob/main/README.md) /  
+[Live Demo]()  
+
 #### stx
 #### Solsystem
 
