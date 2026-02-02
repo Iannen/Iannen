@@ -1,6 +1,6 @@
 Hello!
 
-This is a Github repo I use to expose various projects I've been involved with.
+This is a Github metarepo I use to expose various projects I've been involved with.  
 Whereever possible there will be either a self contained runnable artifact (an exe or a jar file), a link to a live demo or some kind of presentation.
   
 ### Console projects
