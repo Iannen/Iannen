@@ -16,7 +16,7 @@ My experience with Clanker is that the structured approach to LLM interaction th
 
 **Cloudproject ~ spring / summer  of 2026 (WIP)**
 
-Cloudproject is a forray into the world of distributed systems, its ultimate purpose to run containerized workloads in a self healing WAN distributed cluster.
+Cloudproject is a foray into the world of distributed systems, its ultimate purpose to run containerized workloads in a self healing WAN distributed cluster.
 
 It connects host machines together over a Tailnet, and joins them in an etcd backed controlplane of sorts, and is written using Clanker and Gemini.
 
