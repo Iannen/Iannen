@@ -1,7 +1,14 @@
 Hello!
 
-This is a Github metarepo I use to expose various projects I've been involved with.  
+This is a Github metarepo I use to display my projects
 Whereever possible there will be either a self contained runnable artifact (an exe or a jar file), a link to a live demo or some kind of presentation.
+
+**Clanker ~ Summer of 2026 (WIP)**
+
+Clanker is a python CLI application I've written to enhance my vibe coding experience. 
+It's the tool I use to work on the rest of my projects, and can best be described as a configurable prompt compiler with built in progress documentation functionality.
+
+- [README](https://github.com/Iannen/Clanker-clanker/blob/main/README.md)
   
 ### Console projects
 
