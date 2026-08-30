@@ -8,9 +8,9 @@ Whereever possible the intention is that there will be either a self contained r
 
 **Clanker ~ spring / summer  of 2026 (WIP)**
 
-Clanker is a python CLI application I've written to enhance my vibe coding experience. 
-It's the tool I use to work on the rest of my projects, and can best be described as a configurable prompt compiler with built in progress documentation functionality.
-My experience with Clanker is that the structured approach to LLM interaction that it promotes is a great way to progress on projects, while also learning about pragmatic coding & architecture practices that go hand in hand with my new eternal quest **Token / character prompt efficiency**
+Clanker is a python CLI application I've written to enhance my vibe coding experience.  
+It's the tool I use to work on the rest of my projects, and can best be described as a configurable prompt compiler with built in progress documentation functionality.  
+My experience developing and then using Clanker, is that the structured approach to LLM interaction it promotes is a great way to progress on projects, while also discovering pragmatic coding & architectural practices that manage prompt context size as repositores grow.
 
 - [README](https://github.com/Iannen/Clanker-clanker/blob/main/README.md)
 
