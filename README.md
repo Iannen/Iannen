@@ -3,14 +3,27 @@ Hello!
 This is a Github metarepo I use to display my projects
 Whereever possible there will be either a self contained runnable artifact (an exe or a jar file), a link to a live demo or some kind of presentation.
 
-**Clanker ~ Summer of 2026 (WIP)**
+### Cornerstone projects
+
+**Clanker ~ spring / summer  of 2026 (WIP)**
 
 Clanker is a python CLI application I've written to enhance my vibe coding experience. 
 It's the tool I use to work on the rest of my projects, and can best be described as a configurable prompt compiler with built in progress documentation functionality.
+My experience with Clanker is that the structured approach to LLM interaction that it promotes is a great way to progress on projects, while also learning about pragmatic coding & architecture practices that go hand in hand with my new eternal quest **Token / character prompt efficiency**
 
 - [README](https://github.com/Iannen/Clanker-clanker/blob/main/README.md)
+
+**Cloudproject ~ spring / summer  of 2026 (WIP)**
+
+Cloudproject is a forray into the world of distributed systems, its ultimate purpose to run containerized workloads in a self healing WAN distributed cluster.
+
+It connects host machines together over a Tailnet, and joins them in an etcd backed controlplane of sorts, and is written using Clanker and Gemini.
+
+- [README](https://github.com/Iannen/Cloudproject/blob/main/README.md)
+
+### School projects
   
-### Console projects
+#### Console projects
 
 These projects employ nested while loops to present the user with menus. 
 
@@ -33,7 +46,7 @@ These projects employ nested while loops to present the user with menus.
 - [Project README](https://github.com/Iannen/Bilutleie/blob/main/README.md)
 - [Runnable artifact](https://github.com/Iannen/Bilutleie/releases/tag/latest)
   
-### Webapps
+#### Webapps
 
 **Tasklist ~ fall of 2025**
 - Tasklist is a vanilla JS web components style webapp based on a preprovided Spring Boot project, where unregistered users can create and manage tasks.
@@ -45,7 +58,7 @@ These projects employ nested while loops to present the user with menus.
 - [Project README](https://github.com/Iannen/EasyChat/blob/master/README.md)
 - [Live Demo (best accessed in incognito mode)](http://easychat.kaffannen.click:16500/)
   
-### Other projects
+#### Other projects
 
 **TeamUp ~ fall of 2024**
 - Teamup is an unofficial extension for [Canvas LMS](https://sikt-no.translate.goog/tjenester/lms?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=no&_x_tr_pto=wapp&_x_tr_hist=true),
