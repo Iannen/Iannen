@@ -1,8 +1,9 @@
 Hello!
 
-This is a Github metarepo I use to display my projects
-Whereever possible there will be either a self contained runnable artifact (an exe or a jar file), a link to a live demo or some kind of presentation.
-
+This is a Github metarepo I use to display my projects.  
+Whereever possible the intention is that there will be either a self contained runnable artifact (an exe or a jar file), a link to a live demo or some other kind of kind of presentation.
+  
+  
 ### Cornerstone projects
 
 **Clanker ~ spring / summer  of 2026 (WIP)**
