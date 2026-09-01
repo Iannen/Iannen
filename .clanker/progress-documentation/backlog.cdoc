@@ -4,11 +4,13 @@ II. Items to refine & QC:
 [ ] Sort and present projects better
     - Clanker is foundational
     - Cloudproject a portfolio piece / hobbyist project
+    - STX is a Cloudproject precursor, slated for absorption into Cloudproject
+    - EasyChat the first thing I built that worked - I would get randoms from DOTA 2 games to pop in and compliment my Oracle games. Slated for rehabilitation & Clouproject deployment
+    - TeamUp for its pirate jankiness, tinkerer’s CI/CD, and custom topological-dependency JS compiler. This has no path to life given the Canvas dependency, but should still feature for narrative purposes
     - The schoolprojects:
-        - EasyChat deserves attention, and should be rehabilitates & ran in a container
-        - Perhaps TeamUp as well, thought hard to do anything with it due to Canvas dependency.
-        - Certainly EzUI will be rebord, perhaps it can serve the cloudcontroller 'for humans' server?
-    - So have buckets of important stuff, schoolprojects i care about, and then the rest of the schoolprojects can feature in a dense manner
+        - A bucket displaying my true love of while loop TUI applications 
+        - Then something to aggregate the remainder
+    - They should all be Clankerized, to the benefit of the Iannen repos envisioned 'look towards docs of other repos' functionality
 
 [ ] A system to present 'deceitful' links, promising an artifact or a running application, but deliving none.
 
