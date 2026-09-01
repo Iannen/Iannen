@@ -11,10 +11,14 @@ II. Items to refine & QC:
         - A bucket displaying my true love of while loop TUI applications 
         - Then something to aggregate the remainder
     - They should all be Clankerized, to the benefit of the Iannen repos envisioned 'look towards docs of other repos' functionality
+    - Put the “portfolio/hobbyist” framing at the metarepo/account level and then let the individual projects stand on their own merits
 
 [ ] A system to present 'deceitful' links, promising an artifact or a running application, but deliving none.
 
-[ ] Needs some domains and that for a workflow.  
+[ ] Needs some domains and that for a workflow. 
+    - I think it should declare a list of projects in its .clanker config
+    - Letting Clanker use relative pathing to create a dir resolution from Iannens .clanker dir to the other PUD's .clanker dir (obscuring any path info from public GH visibility)
+    - So that prompts with docs from Iannen and the other puds can be combined prompts for LLM interaction.
 
 [ ] Perhaps adress the reader, embed a (non-secret) document explaining my intention with the repo?
     - Perhaps a sort of 'vision' document, to say 'this is for the benefit of recruiters armed with LLM tools'
