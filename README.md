@@ -79,7 +79,7 @@ Features:
 
 It's a janky creature of tape and bubblegum, but given a shot it will run and actually work (somewhat).
 
-Slated for refurbishment & intended to run on whatever becomes of Cloudproject. Its custom frontend - EzUI -,  is of great sentimental value to yours truly.  
+Slated for refurbishment & intended to run on whatever becomes of Cloudproject. Its custom frontend *EzUI* is of great sentimental value to yours truly.  
 
 |[README](https://github.com/Iannen/EasyChat/blob/master/README.md)|[Not-yet-implemented-demonstration-link](https://example.com)|
 
@@ -88,7 +88,7 @@ Slated for refurbishment & intended to run on whatever becomes of Cloudproject. 
 
 ## Console Apps ( group based school projects )
 
-A section of it's own to document my deep and undying love of loop driven TUI applications.  
+A section of its own to document my deep and undying love of loop driven TUI applications.  
 Buyer beware - the artifacts mentioned are supposed to be runnable, but some time has passed since I last had a look.  
 
 **DbAdmin (Spring 2023):** Console-driven employee/department simulation using PostgreSQL and JPA + DAO.  
@@ -114,9 +114,9 @@ It used tampermonkey to inject an EzUI based frontend into the Canvas LMS websit
 It never had any functionality beyond being able to retrieve and display some basic information about groups and such from various course sites of Canvas.  
 The main thrust of development went into such matters as Javascript compilation & CI/CD related work.  
 
-In the absense of Canvas access, this project has no path to further development, and is therefore completely defunct.  
+In the absence of Canvas access, this project has no path to further development, and is therefore completely defunct.  
 
-|[README](https://github.com/Iannen/EasyChat/blob/master/README.md)|
+|[README](https://github.com/Iannen/TeamUp/blob/main/README.md)|
 
 ### Tasklist 
 

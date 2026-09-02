@@ -1,11 +1,73 @@
 I. Ideas, complaints and non-critical bugs:
+
+1.  Rethorical devices
+    - Aesop's fables
+        'The Scorpion and the Frog' -> to say I build stuff for the sake of it
+        'Tortoise and the Hare' -> To say Clanker is a better learning tool than enterprise ai driven coding tools
+            - Well, that is my assumption at least. I've got next to no experience with any of that.
+
+2. Thumbnail
+    - Custom Jolly Roger:
+        - Bloody Brain
+        - Thumbs in an X
+    - Or not that
+
+3. Relocate readme structure spec
+    - Move 'readme.docspec / IV. Structure' from docspec to 'architecture', finally seeing a usecase for that doc? 
+    
 II. Items to refine & QC:
 
-[ ] Sort and present projects better
+[ ] Clankerize all projects featured on the landing page
+    - This then becomes an opportunity to refine Clanker as a project analysis tool.
+
+[ ] Markdown formatting looks weird as hell
+    - Find resources to deal with that
+
+[ ] A system to handle 'deceitful' links, promising an artifact or a running application, but deliving none.
+    - Push blame to individual repos?
+    - I dont know. CICD on metarepo? w0wsers
+
+[ ] Domains & prompts available:
+    - Shared domain 'presentation'
+        'readme' skeleton: probably fine? 
+'''
+<general-rules.md>
+</general-rules.md>
+<README.md>
+</README.md>
+<readme.docspec>
+</readme.docspec>
+<architecture.cdoc>
+</architecture.cdoc>
+<backlog.cdoc>
+</backlog.cdoc>
+<north-star.cdoc>
+</north-star.cdoc>
+<project-history.cdoc>
+</project-history.cdoc>
+'''
+    - Need a button to push to compile those readme docs into a prompt
+        - Becomes a trip down the Clanker rabbithole:
+            - Declare a list of projects in its .clanker config
+            - Then access docs as if they were object members
+            - Paths must not be part of any config
+
+[ ] Improve intro section
+    - Some more meat on the bone here
+
+[ ] Add proper outro section
+    - Perhaps direct the reader to investigate other docs of Iannen repo
+    - Explain to reader that the progress-documentation is standardized in clankerized repos
+    - Then byebye
+
+III. Slated for implementation:
+IV. Recently implemented:
+
+[x] Sort and present projects better
     - Clanker is foundational
     - Cloudproject a portfolio piece / hobbyist project
     - STX is a Cloudproject precursor, slated for absorption into Cloudproject
-    - EasyChat the first thing I built that worked - I would get randoms from DOTA 2 games to pop in and compliment my Oracle games. Slated for rehabilitation & Clouproject deployment
+    - EasyChat the first thing I built that worked - I would get randoms from DOTA 2 games to pop in and compliment my Oracle games. Slated for rehabilitation & Cloudproject deployment
     - TeamUp for its pirate jankiness, tinkerer’s CI/CD, and custom topological-dependency JS compiler. This has no path to life given the Canvas dependency, but should still feature for narrative purposes
     - The schoolprojects:
         - A bucket displaying my true love of while loop TUI applications 
@@ -13,17 +75,4 @@ II. Items to refine & QC:
     - They should all be Clankerized, to the benefit of the Iannen repos envisioned 'look towards docs of other repos' functionality
     - Put the “portfolio/hobbyist” framing at the metarepo/account level and then let the individual projects stand on their own merits
 
-[ ] A system to present 'deceitful' links, promising an artifact or a running application, but deliving none.
-
-[ ] Needs some domains and that for a workflow. 
-    - I think it should declare a list of projects in its .clanker config
-    - Letting Clanker use relative pathing to create a dir resolution from Iannens .clanker dir to the other PUD's .clanker dir (obscuring any path info from public GH visibility)
-    - So that prompts with docs from Iannen and the other puds can be combined prompts for LLM interaction.
-
-[ ] Perhaps adress the reader, embed a (non-secret) document explaining my intention with the repo?
-    - Perhaps a sort of 'vision' document, to say 'this is for the benefit of recruiters armed with LLM tools'
-    - Something for the salmon bay crowd? 
-
-III. Slated for implementation:
-IV. Recently implemented:
 V. Critical bugs
