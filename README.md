@@ -1,4 +1,4 @@
-# [Iannen metarepo]
+# Iannen metarepo
 
 Hello!
 
