@@ -1,12 +1,28 @@
+sets:
+  default_repo_content:
+    includes: [.]
+    excludes: [.git, .clanker]
+  internal_content:
+    includes: [.]
+    excludes: [.git]
+
 domains:
-- name: bootstrap
+- name: analysis
   resolvers:
-  - {id: domain_fragments, type: multi-document-retrieval, files: [
-        domain-bootstrap.md]}
+  - {id: domain_fragments, type: repo-manifest, pud_fileset: all, shared_fileset: 
+      clanker-shared-assets}
   renders:
-  - name: bootstrap
+  - name: init
     resolvers:
-    - {id: prompt_fragments, type: multi-document-retrieval, files: [
-          bootstrap-instructions.pfrag, backlog.cdoc]}
-    - {id: repo_content, type: repo_content, includes: [.], excludes: [.clanker],
-      sorting: normal}                                                                                             #".git" to excludes. should make includes existence obligatory, but non-existent excludes are ok
+    - {id: prompt_fragments, type: multi-document-retrieval, files: [kb_def.yaml,
+        shared_domains.yaml, config.yaml, config-development-mode.md, 
+          config-dev-output.instruction]}
+    - {id: repo_content, type: repo_content, fileset: none}
+  - name: overview
+    resolvers:
+    - {id: prompt_fragments, type: multi-document-retrieval, files: [config.yaml]}
+    - {id: repo_content, type: repo_content, fileset: default_repo_content}
+  - name: status
+    resolvers:
+    - {id: prompt_fragments, type: multi-document-retrieval, files: [config.yaml]}
+    - {id: repo_content, type: repo_content, fileset: internal_content}

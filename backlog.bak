@@ -1,0 +1,23 @@
+I. Ideas, complaints and non-critical bugs:
+II. Items to refine & QC:
+
+[ ] Sort and present projects better
+    - Clanker is foundational
+    - Cloudproject a portfolio piece / hobbyist project
+    - The schoolprojects:
+        - EasyChat deserves attention, and should be rehabilitates & ran in a container
+        - Perhaps TeamUp as well, thought hard to do anything with it due to Canvas dependency.
+        - Certainly EzUI will be rebord, perhaps it can serve the cloudcontroller 'for humans' server?
+    - So have buckets of important stuff, schoolprojects i care about, and then the rest of the schoolprojects can feature in a dense manner
+
+[ ] A system to present 'deceitful' links, promising an artifact or a running application, but deliving none.
+
+[ ] Needs some domains and that for a workflow.  
+
+[ ] Perhaps adress the reader, embed a (non-secret) document explaining my intention with the repo?
+    - Perhaps a sort of 'vision' document, to say 'this is for the benefit of recruiters armed with LLM tools'
+    - Something for the salmon bay crowd? 
+
+III. Slated for implementation:
+IV. Recently implemented:
+V. Critical bugs
