@@ -34,8 +34,9 @@ Features:
     4. Drain completed items into a 'history' document
     5. Rinse and repeat
 - Yaml configured prompt assembly
+- shell script to encapsulate the scare business of git-ops, a 'save button', if you will
 
-
+It's basically a project where I can implement solutions to the problems I run into on my way. 
 Certainly a chewing-toy, but I find it quite workable if I may say so.
 
 |[README](https://github.com/Iannen/Clanker-clanker/blob/main/README.md)|[Not-yet-implemented-demonstration-link](https://github.com/Iannen/Clanker-clanker/blob/main/README.md)|
