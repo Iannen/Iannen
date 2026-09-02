@@ -54,10 +54,13 @@ II. Items to refine & QC:
 
 [ ] Improve intro section
     - Some more meat on the bone here
+    - Keep suggestion to human reader of dropping link in llm in the intro
+    - move llm suggestions to outro
 
 [ ] Add proper outro section
-    - Perhaps direct the reader to investigate other docs of Iannen repo
-    - Explain to reader that the progress-documentation is standardized in clankerized repos
+    - Justify an explanation of the structure and docs and all that by framing it as a suggestion for bot readers
+        - Perhaps direct the reader to investigate other docs of Iannen repo
+        - Explain to reader that the progress-documentation is standardized in clankerized repos
     - Then byebye
 
 III. Slated for implementation:
