@@ -5,12 +5,18 @@ I. Ideas, complaints and non-critical bugs:
         'The Scorpion and the Frog' -> to say I build stuff for the sake of it
         'Tortoise and the Hare' -> To say Clanker is a better learning tool than enterprise ai driven coding tools
             - Well, that is my assumption at least. I've got next to no experience with any of that.
+    - for intro 'about me' bullet list
+        - Ez enthusiast
+        - Problem junkie
 
 2. Thumbnail
     - Custom Jolly Roger:
         - Bloody Brain
         - Thumbs in an X
     - Or not that
+    - Appears implemented jeez!
+
+
 
 3. Relocate readme structure spec
     - Move 'readme.docspec / IV. Structure' from docspec to 'architecture', finally seeing a usecase for that doc? 
